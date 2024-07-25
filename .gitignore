@@ -1,0 +1,49 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Configuration files
+appsettings.json
+appsettings.*.json
+
+# User-specific files
+*.rsuser
+*.rsuser
+
+# Logs
+*.log
+logs/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Entity Framework
+Migrations/
+
+# Secrets
+.env
+.env.*
+.env.local
+.env.development
+.env.test
+.env.production
+
+# OS generated files
+.DS_Store
+Thumbs.db
